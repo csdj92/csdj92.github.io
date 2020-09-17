@@ -1,11 +1,11 @@
 # Site settings
 author: CJ Davis
-title: 
+title: The First mile
 header-img: img/home-bg.png
 email: csdj92@gmail.com
 copyright_name: CJ Davis
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Why I decided to study software engineering 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  csdj92
