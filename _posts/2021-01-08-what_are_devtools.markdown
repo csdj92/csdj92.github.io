@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "What are DevTools?"
-date:       2021-01-08 15:41:08 +0000
+date:       2021-01-08 10:41:09 -0500
 permalink:  what_are_devtools
 ---
 
